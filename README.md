@@ -15,7 +15,7 @@ from the United Nations website and migrating it to a PostgreSQL Database.
 ### Project Description
 
 
-## Finding Data
+## FINDING DATA
 All of the data that we used were from https://undp.org/, https://www.worldbank.org, https://www.kaggle.com  where they
 compiled from various sources that include Eurostat, U.S National Center for Statistics, World Healthcare Organization, etc.. 
 
